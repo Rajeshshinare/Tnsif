@@ -1,0 +1,23 @@
+package com.tnsif.day9.strings;
+
+public class WrapperClassDemo {
+
+	public static void main(String[] args) {
+		
+//	Unboxing Wrapper
+	Integer i = new Integer(10);
+	System.out.println(i);
+	int b=i.intValue();
+	System.out.println(b);
+	
+//	Without using int Value();
+	int c=i;
+	System.out.println(c);
+	
+//	Autoboxing
+	int a = 100;
+	Integer i1 = a;
+	System.out.println(i1);
+	
+	}
+}
