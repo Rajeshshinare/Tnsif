@@ -34,15 +34,6 @@ public class HashMapTableDemo {
 		
 		Collection <String> c = ht.values();
 		System.out.println(c);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
 	}
 }
