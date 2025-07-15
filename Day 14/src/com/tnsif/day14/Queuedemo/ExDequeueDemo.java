@@ -1,4 +1,4 @@
-package com.tnsif.day14.listdemo;
+package com.tnsif.day14.Queuedemo;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
